@@ -1,0 +1,6 @@
+/Users/aliburakkucuk/Projects/NameSorter/obj/Debug/NameSorter.csprojAssemblyReference.cache
+/Users/aliburakkucuk/Projects/NameSorter/obj/Debug/NameSorter.csproj.CoreCompileInputs.cache
+/Users/aliburakkucuk/Projects/NameSorter/bin/Debug/NameSorter.exe
+/Users/aliburakkucuk/Projects/NameSorter/bin/Debug/NameSorter.pdb
+/Users/aliburakkucuk/Projects/NameSorter/obj/Debug/NameSorter.exe
+/Users/aliburakkucuk/Projects/NameSorter/obj/Debug/NameSorter.pdb
