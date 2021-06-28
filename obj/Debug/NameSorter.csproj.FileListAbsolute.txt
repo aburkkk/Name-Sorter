@@ -4,3 +4,15 @@
 /Users/aliburakkucuk/Projects/NameSorter/bin/Debug/NameSorter.pdb
 /Users/aliburakkucuk/Projects/NameSorter/obj/Debug/NameSorter.exe
 /Users/aliburakkucuk/Projects/NameSorter/obj/Debug/NameSorter.pdb
+/Users/aliburakkucuk/Downloads/NameSorter-2/bin/Debug/NameSorter.exe
+/Users/aliburakkucuk/Downloads/NameSorter-2/bin/Debug/NameSorter.pdb
+/Users/aliburakkucuk/Downloads/NameSorter-2/obj/Debug/NameSorter.csprojAssemblyReference.cache
+/Users/aliburakkucuk/Downloads/NameSorter-2/obj/Debug/NameSorter.csproj.CoreCompileInputs.cache
+/Users/aliburakkucuk/Downloads/NameSorter-2/obj/Debug/NameSorter.exe
+/Users/aliburakkucuk/Downloads/NameSorter-2/obj/Debug/NameSorter.pdb
+/Users/aliburakkucuk/Desktop/NameSorter-2/bin/Debug/NameSorter.exe
+/Users/aliburakkucuk/Desktop/NameSorter-2/bin/Debug/NameSorter.pdb
+/Users/aliburakkucuk/Desktop/NameSorter-2/obj/Debug/NameSorter.csprojAssemblyReference.cache
+/Users/aliburakkucuk/Desktop/NameSorter-2/obj/Debug/NameSorter.csproj.CoreCompileInputs.cache
+/Users/aliburakkucuk/Desktop/NameSorter-2/obj/Debug/NameSorter.exe
+/Users/aliburakkucuk/Desktop/NameSorter-2/obj/Debug/NameSorter.pdb

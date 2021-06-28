@@ -37,6 +37,7 @@
     <Compile Include="Importer.cs" />
     <Compile Include="Exporter.cs" />
     <Compile Include="ValidationOfFile.cs" />
+    <Compile Include="ReverseSorter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
